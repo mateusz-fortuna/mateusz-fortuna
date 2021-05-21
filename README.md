@@ -8,10 +8,11 @@
   * RWD
   * REST API
   * Node.js, Express
-  * JS Libraries: Axios, GSAP, THREE, Lodash
   * Tools: GIT, ESLint, Prettier
   * Basics of the: Java, Python, MySQL
 - ✔ I always try to follow DRY, KISS and SOLID principles to write a clean code.
 - 🕶 I'm also focused on UX, I follow trends in UI and I'm fluent in Adobe Photoshop.
 - 🌱 I’m currently learning the Angular and WebGL.
 - 📫 You can contact with me by: <mat.fortuna@wp.pl>
+- 🧔 LinkedIn: www.linkedin.com/in/mateusz-fortuna
+
