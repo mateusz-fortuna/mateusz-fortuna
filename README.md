@@ -13,6 +13,6 @@
 - ✔ I always try to follow DRY, KISS and SOLID principles to write a clean code.
 - 🕶 I'm also focused on UX, I follow trends in UI and I'm fluent in Adobe Photoshop.
 - 🌱 I’m currently learning the Angular and WebGL.
-- 📫 You can contact with me by: <mat.fortuna@wp.pl>
+- 📫 You can contact me at: <mat.fortuna@wp.pl>
 - 🧔 LinkedIn: www.linkedin.com/in/mateusz-fortuna
 
