@@ -9,7 +9,7 @@
   * REST API
   * Node.js, Express
   * Tools: GIT, ESLint, Prettier
-  * Basics of the: Java, Python, MySQL
+  * Basics of the: Python, MySQL, C#, Java
 - ✔ I always try to follow DRY, KISS and SOLID principles to write a clean code.
 - 🕶 I'm also focused on UX, I follow trends in UI and I'm fluent in Adobe Photoshop.
 - 🌱 I’m currently learning the Angular and WebGL.
